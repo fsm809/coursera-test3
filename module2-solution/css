@@ -1,25 +1,44 @@
-<!DOCTYPE html>==$0
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UFT-8">
-<meta name="viewport"  content="width=device-width, initial-scale=1.0"><title>Our menu</title><link rel="stylesheet" href="css/styles.css"><script src="chrome-extension://idnnbdplmphpflfnlkomgpfbpcgelopg/inpage.js"
-id="xverse-wallet-provider" data-is-priority="true"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Module 2 Solution</title>
+  <link rel="stylesheet" href="coursera styles.css">
 </head>
-<body
-<header>
-<h>Our menu</h1>
-<div cllass="conteiner">
-<section class="box chicken">==$0
-<div  cass="title">Chicken</div>
-<p>==$0 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
-</section>
-<section class="box beef"> == $0
-<div class="title">Beef</div>
-<p>==0</p>
-</section>
-<section class="box sushi" ==$0 </section>
-</div>
+<body>
+  <h1>Our Menu</h1>
+
+  <div class="row">
+    <!-- Chicken Section -->
+    <div class="col-lg-4 col-md-6 col-sm-12">
+      <div class="section">
+        <div class="section-title chicken">Chicken</div>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+      </div>
+    </div>
+
+    <!-- Beef Section -->
+    <div class="col-lg-4 col-md-6 col-sm-12">
+      <div class="section">
+        <div class="section-title beef">Beef</div>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+      </div>
+    </div>
+
+    <!-- Sushi Section -->
+    <div class="col-lg-4 col-md-12 col-sm-12">
+      <div class="section">
+        <div class="section-title sushi">Sushi</div>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
